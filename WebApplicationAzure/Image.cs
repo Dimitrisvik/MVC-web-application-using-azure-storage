@@ -1,4 +1,4 @@
-﻿namespace OrderezeTask
+﻿namespace WebApplicationAzure.Models
 {
     public class Image {
         /// <summary>
@@ -21,5 +21,8 @@
         /// The path the actual image is stored (normally the blob storage reference)
         /// </summary>
         public string ImagePath { get; set; }
+
+
     }
 }
+
