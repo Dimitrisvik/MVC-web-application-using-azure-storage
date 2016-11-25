@@ -154,9 +154,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\ImageService.cs" />
-    <Compile Include="Models\IImageService.cs" />
-    <Compile Include="Image.cs" />
+    <Compile Include="ImageService.cs" />
+    <Compile Include="IImageService.cs" />
+    <Compile Include="Models\Image.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
